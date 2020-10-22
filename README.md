@@ -2,22 +2,22 @@
 PyTorch Video Dataloader for SpatioTemporal models, assuming your folder structure looks like this:  
   
 root/  
-    - action0/  
-        -event0/  
-            -frame00.png  
-            -frame01.png  
-            - ...  
-        -event1/  
-            -frame00.png  
-            -frame01.png  
-            - ...  
-    - action1/  
-        -event0/  
-            -frame00.png  
-            -frame01.png  
-            - ...  
-        -event1/  
-            -frame00.png  
-            -frame01.png  
-            - ...  
+&nbsp;- action0/  
+&nbsp;&nbsp;-event0/  
+&nbsp;&nbsp;&nbsp;-frame00.png  
+&nbsp;&nbsp;&nbsp;-frame01.png  
+&nbsp;&nbsp;&nbsp;- ...  
+&nbsp;&nbsp;-event1/  
+&nbsp;&nbsp;&nbsp;-frame00.png  
+&nbsp;&nbsp;&nbsp;-frame01.png  
+&nbsp;&nbsp;&nbsp;- ...  
+&nbsp;- action1/  
+&nbsp;&nbsp;-event0/  
+&nbsp;&nbsp;&nbsp;-frame00.png  
+&nbsp;&nbsp;&nbsp;-frame01.png  
+&nbsp;&nbsp;&nbsp;- ...  
+&nbsp;&nbsp;-event1/  
+&nbsp;&nbsp;&nbsp;-frame00.png  
+&nbsp;&nbsp;&nbsp;-frame01.png  
+&nbsp;&nbsp;&nbsp;- ...  
 
