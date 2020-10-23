@@ -12,9 +12,7 @@ from PIL import Image
 import re
 import torchvision
 
-
-    
-  
+ 
 class MySampler(torch.utils.data.Sampler):
     def __init__(self, end_idx, seq_length):
         indices = []
