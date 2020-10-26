@@ -1,5 +1,5 @@
 # PyTorch-Video-Dataset-Loader-Sampler
-PyTorch Video Dataloader for SpatioTemporal models, assuming your folder structure looks like this:  
+PyTorch Video Dataloader for SpatioTemporal models, assuming your data folder structure looks like this:  
   
 root/  
 &nbsp;&nbsp;&nbsp;&nbsp;- action0/  
